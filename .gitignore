@@ -1,0 +1,22 @@
+# Build directories
+build/
+cmake-build-*/
+
+# IDE directories
+.idea/
+.vs/
+.vscode/
+
+# Compiled files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+*.cmake
